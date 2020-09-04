@@ -58,6 +58,6 @@
     "vue-resource-progressbar-interceptor": "^1.1.5",
     "vue-router": "^2.5.3",
     "vue-toastr": "^2.0.6",
-    "yargs-parser": "^14.0.0"
+    "yargs-parser": "^15.0.1"
   }
 }
